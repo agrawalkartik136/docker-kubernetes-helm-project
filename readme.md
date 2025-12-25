@@ -27,3 +27,18 @@ This project demonstrates containerization, orchestration, and deployment of a F
 ```bash
 docker build -t agrawalkartik136/my-flask-app:v1 .
 docker push agrawalkartik136/my-flask-app:v1
+
+
+## 📸 Screenshots
+
+### Application Running on Kubernetes
+![App Running](screenshots/app-running.png)
+
+### Kubernetes Pods
+![Pods](screenshots/kubectl-get-pods.png)
+
+### Kubernetes Services
+![Services](screenshots/kubectl-get-svc.png)
+
+### Helm Release
+![Helm](screenshots/helm-release.png)
