@@ -9,9 +9,8 @@ replicaCount: 2
 image:
   repository: agrawalkartik136/my-flask-app
   # This sets the pull policy for images.
-  pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: v1
+  tag: v3
 
 # This is for the secrets for pulling an image from a private repository more information can be found here: https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
 imagePullSecrets: []
