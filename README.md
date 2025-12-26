@@ -33,14 +33,14 @@ docker push agrawalkartik136/my-flask-app:v1
 
 ### Application Running on Kubernetes
 <<<<<<< HEAD:readme.md
-[![App Running](screenshots/app-running.png)](screenshots/app-running.png)
+[![App Running](screenshots/app-running.png)]
 
 ### Kubernetes Pods
-[![Pods](screenshots/kubectl-get-pods.png)](screenshots/kubectl-get-pods.png)
+[![Pods](screenshots/kubectl-get-pods.png)]
 
 ### Kubernetes Services
-[![Services](screenshots/kubectl-get-svc.png)](screenshots/kubectl-get-svc.png)
+[![Services](screenshots/kubectl-get-svc.png)]
 
 ### Helm Release
-[![Helm](screenshots/helm-release.png)](screenshots/helm-release.png)
+[![Helm](screenshots/helm-release.png)]
 
