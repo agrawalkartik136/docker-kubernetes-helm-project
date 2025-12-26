@@ -32,6 +32,7 @@ docker push agrawalkartik136/my-flask-app:v1
 ## 📸 Screenshots
 
 ### Application Running on Kubernetes
+<<<<<<< HEAD:readme.md
 [![App Running](screenshots/app-running.png)](screenshots/app-running.png)
 
 ### Kubernetes Pods
@@ -42,3 +43,4 @@ docker push agrawalkartik136/my-flask-app:v1
 
 ### Helm Release
 [![Helm](screenshots/helm-release.png)](screenshots/helm-release.png)
+
