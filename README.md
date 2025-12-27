@@ -28,6 +28,10 @@ This project demonstrates containerization, orchestration, and deployment of a F
 docker build -t agrawalkartik136/my-flask-app:v1 .
 docker push agrawalkartik136/my-flask-app:v1
 
+## 🚀 CI/CD Pipeline
+- Implemented CI using GitHub Actions to automatically build and push Docker images on every push to main
+- Used Helm for Continuous Deployment to update Kubernetes workloads with new images
+- This setup simulates a real-world DevOps workflow by separating CI automation and deployment management.
 
 ## 📸 Screenshots
 
